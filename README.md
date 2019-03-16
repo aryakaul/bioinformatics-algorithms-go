@@ -1,2 +1,1 @@
-# bioinformatics-algorithms-go
-My collection of Go implementation of algorithms described in Pevzner's &amp; Compeau's wonderful textbook
+My collection of Go solutions to *Bioinformatics Algorithms* by Dr. Pevzner and Dr. Compeau. 
